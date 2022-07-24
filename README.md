@@ -8,4 +8,4 @@ A company animated using [sass](https://sass-lang.com/). The text slide in from 
 
 ## Source
 
-[Learn Sass Course](https://www.codecademy.com/courses/learn-sass/) - Codecademy &copy 2022.
+[Learn Sass Course](https://www.codecademy.com/courses/learn-sass/) - Codecademy &copy; 2022.
